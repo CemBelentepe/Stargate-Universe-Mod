@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sgu",
+  "name": "Stargate Universe Mod",
+  "description": "Brings Stargate Universe to Minecraft",
+  "version": "v0.1",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheCCB"],
+  "credits": "Bo3nd4l, Immgrimsh",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

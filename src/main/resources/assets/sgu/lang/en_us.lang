@@ -1,0 +1,11 @@
+item.stone_paneL.name=Stone Panel
+item.dialing_crystal.name=Dialing Crystal
+
+tile.base_block.name=Base Block
+tile.chevron_block.name=Chevron Block
+tile.stargate_block.name=Stargate Base Block
+tile.dhd.name=DHD
+tile.naquadah_block.name=Naquadah Block
+tile.naquadria_block.name=Naquadria Block
+tile.naquadah_ore.name=Naquadah Ore
+tile.trinium_ore.name=Trinium Ore
